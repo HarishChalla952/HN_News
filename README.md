@@ -1,2 +1,2 @@
 # HN_News
-News Application
+News Application built in Flutter
